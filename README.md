@@ -67,3 +67,16 @@
 </p>
 
 **Also:** ASP.NET Core · Entity Framework Core · WPF / WinForms (MVVM) · MS SQL Server / T-SQL · Cosmos DB · Azure Service Bus · Azure AI Foundry · SQLAlchemy · Pydantic · xUnit / NUnit / Moq · SonarQube · microservices · event-driven architecture · CQRS / MediatR · multi-tenant SaaS · LLM integration · WCAG
+
+### GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=denis-mikhalev&hide_border=true&theme=github-dark-blue" />
+    <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=denis-mikhalev&hide_border=true" />
+  </picture>
+</p>
