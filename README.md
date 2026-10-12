@@ -72,11 +72,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8&theme=github_dark" />
+    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denis-mikhalev&layout=compact&langs_count=8" />
   </picture>
+  &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=denis-mikhalev&hide_border=true&theme=github-dark-blue" />
-    <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=denis-mikhalev&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=denis-mikhalev&theme=github-dark-blue" />
+    <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=denis-mikhalev" />
   </picture>
 </p>
