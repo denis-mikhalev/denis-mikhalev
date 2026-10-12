@@ -8,9 +8,16 @@
   <a href="mailto:hello@denismikhalev.dev">Email</a>
 </p>
 
-- 🔭 Building **[Voicetrics](https://voicetrics.com)** — AI call-analytics SaaS: speech-to-text → LLM scoring against a sales checklist → per-employee analytics and alerts. Go + Python, multi-tenant cloud.
-- 💼 Full-stack engineer at **Litmos** (.NET, Azure) — cut report processing from 35 min to 75 s and data processing time by 74%.
-- 🧩 7+ years across e-learning, automotive (ETAS / Bosch), banking (Citi) and hospitality SaaS.
+- 💼 Senior full-stack engineer at **Litmos** — building the .NET / Azure backend of a corporate learning platform
+- 🧩 7+ years across e-learning, automotive (ETAS / Bosch), banking (Citi) and hospitality SaaS
+- 🛠️ Technical owner of **[Voicetrics](https://voicetrics.com)** — AI call-analytics SaaS (Go, Python, LLM, speech-to-text)
+- 📈 Side interest: ML for financial time series — reinforcement learning, gradient boosting, backtesting
+- 🌱 I'm currently learning **LLM evaluation and prompt engineering at scale**
+- 👯 I'm looking to collaborate on **[RL Trading Agent](https://github.com/denis-mikhalev/reinforcement-learning-trading-agent)**
+- 💬 Ask me about **C# / .NET performance, SQL query optimization, Go, third-party API integrations**
+- 📂 All of my projects are available at **[github.com/denis-mikhalev](https://github.com/denis-mikhalev?tab=repositories)**
+- 📄 Know about my experience: **[LinkedIn](https://www.linkedin.com/in/denis-mikhalev-software-engineer/)** · **[Resume](https://denismikhalev.dev/resume/)**
+- 📫 How to reach me: **hello@denismikhalev.dev**
 - 📍 Alanya, Turkey · open to remote and relocation
 
 ### Tech
