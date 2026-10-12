@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Mikhalev</h1>
-<h3 align="center">Senior Software Engineer · C# / .NET · Go<br>Full-stack engineer building scalable, high-performance web apps and AI-powered products</h3>
+<h3 align="center">Senior Full-stack Software Engineer · C# / .NET · Go<br>Building scalable, high-performance web apps and AI-powered products</h3>
 
 <p align="center">
   <a href="https://denismikhalev.dev">Website</a> ·
