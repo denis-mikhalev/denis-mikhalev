@@ -2,10 +2,13 @@
 <h3 align="center">Senior Software Engineer · C# / .NET · Go<br>Backend systems, integrations and AI-powered products</h3>
 
 <p align="center">
-  <a href="https://denismikhalev.dev">Website</a> ·
-  <a href="https://www.linkedin.com/in/denis-mikhalev-software-engineer/">LinkedIn</a> ·
-  <a href="https://t.me/denis_mikhalev">Telegram</a> ·
-  <a href="mailto:hello@denismikhalev.dev">Email</a>
+  <a href="https://denismikhalev.dev"><img src="assets/website.svg" width="40" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/denis-mikhalev-software-engineer/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/13139934/denis-mikhalev"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" alt="Stack Overflow" /></a>
+  <a href="https://t.me/denis_mikhalev"><img src="assets/telegram.svg" width="40" alt="Telegram" /></a>
+  <a href="https://x.com/denismikhalev_"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter / X" /></a>
+  <a href="https://www.instagram.com/denismikhalev.dev/"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /></a>
+  <a href="mailto:hello@denismikhalev.dev"><img src="assets/email.svg" width="40" alt="Email" /></a>
 </p>
 
 - 💼 Senior full-stack engineer at **Litmos** — building the .NET / Azure backend of a corporate learning platform
